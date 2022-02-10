@@ -74,6 +74,12 @@ section .heading h2{
     margin: 0 auto;
     float: none;
 }
+
+.profile-i{
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
 #about .heading h1{
     color: #fff;
     text-transform: uppercase;
