@@ -77,8 +77,9 @@ section .heading h2{
 
 .profile-i{
     text-align: center;
-    margin: 0 auto;
+    margin-left: 22rem;
     float: none;
+    height: 45px;
 }
 #about .heading h1{
     color: #fff;
